@@ -7,6 +7,26 @@ Added Rigidbody component and Collision to prefabs. Edited file ForegroundObject
 <a href="https://ibb.co/31BnWN7"><img src="https://i.ibb.co/4WPHMT7/2023-05-24-141510.png" alt="2023-05-24-141510" border="0"></a>
 </p>
 
+## New things
+### Edited ForegroundObjectPlacementRandomizer:
+- Normalization was removed.
+- Added some features.
+<p align="center">
+<a href="https://ibb.co/Npz9jz4"><img src="https://i.ibb.co/bLnsBnf/Foreground.png" alt="Foreground" border="0"></a>
+</p>
+
+<br>
+* Now "Max object Count" generates UP TO N-objects
+<br>
+** Now you can select the spawn range for each axis with a uniform distribution
+
+### New componets of prefabs:
+- Added "Rigidbody" and "Mesh collider" to all prefabs.
+<a href="https://ibb.co/gPsxVjC"><img src="https://i.ibb.co/VQXsmj8/componets.png" alt="componets" border="0"></a>
+
+### Others:
+- Some Randomizers were disabled
+
 <p align="center">
 <img src="docs/images/unity-wide.png" width="3000"/>
 <img src="docs/images/banner.PNG" align="middle"/>
