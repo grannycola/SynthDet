@@ -16,16 +16,19 @@ Added Rigidbody component and Collision to prefabs. Edited file ForegroundObject
 </p>
 
 <br>
-* Now "Max object Count" generates UP TO N-objects
+* Now "Max object Count" generates UP TO N-objects.
 <br>
-** Now you can select the spawn range for each axis with a uniform distribution
+** Now you can select the spawn range for each axis with a uniform distribution.
 
 ### New componets of prefabs:
 - Added "Rigidbody" and "Mesh collider" to all prefabs.
 <a href="https://ibb.co/gPsxVjC"><img src="https://i.ibb.co/VQXsmj8/componets.png" alt="componets" border="0"></a>
 
 ### Others:
-- Some Randomizers were disabled
+- Some Randomizers were disabled.
+
+## Other branches:
+You can also check out the [`vr-support`](https://github.com/grannycola/SynthDetPhys/tree/vr-support) branch. So far it works correctly in Multi-pass render mode.
 
 <p align="center">
 <img src="docs/images/unity-wide.png" width="3000"/>
