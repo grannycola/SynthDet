@@ -28,7 +28,7 @@ Added Rigidbody component and Collision to prefabs. Edited file ForegroundObject
 - Some Randomizers were disabled.
 
 ## Other branches:
-You can also check out the [`vr-support`](https://github.com/grannycola/SynthDetPhys/tree/vr-support) branch.
+You can also check out the [`vr-support`](https://github.com/grannycola/SynthDetPhys/tree/vr-support) branch. This branch added support for Oculus devices. Tested on Quest 2.
 
 <p align="center">
 <img src="docs/images/unity-wide.png" width="3000"/>
